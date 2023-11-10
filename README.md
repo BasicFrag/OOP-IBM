@@ -1,4 +1,4 @@
-# OopPilares
+# Oop_Pilares
 Projeto Java feito usando Intellij IDEA, JDK 21.
 
 Exercício para demonstrar os 4 quatro pilares da POO (Programação Orientada-a-Objetos) + uso da Stream API (java.awt.Stream.Collectors)
